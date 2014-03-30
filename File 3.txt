@@ -1,3 +1,5 @@
 file 3 added to master branch
 
 stash changes
+
+version 2.0 changes
